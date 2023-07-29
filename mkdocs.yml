@@ -5,6 +5,8 @@ theme:
   name: material
   logo: images/logo-cutout.png
   favicon: images/logo-cutout.png
+  icon:
+    repo: fontawesome/brands/github
   palette:
     scheme: slate
     primary: cyan
@@ -19,3 +21,5 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/TimyStream
 copyright: Built and put together with ❤️ by Timy Stream & Friends & Contributors
+repo_url: https://github.com/TimyStream/recipes-around-the-web
+repo_name: TimyStream/recipes-around-the-web
