@@ -1,4 +1,8 @@
 site_name: Recipes around the Web
 theme:
   name: material
+  palette:
+    scheme: slate
+    primary: cyan
+
 
