@@ -1,8 +1,11 @@
 site_name: Recipes around the Web
 theme:
   name: material
+  logo: images/logo-cutout.png
+  favicon: images/logo-cutout.png
   palette:
     scheme: slate
     primary: cyan
-
-
+  features:
+    - navigation.top
+    - navigation.indexes

@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+#  Welcome to recipes around the World!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![](images/logo-cutout.png)
 
-## Commands
+Here you will find a collection of different recipes from different sources divided into different categories.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* [Appetizer](Appetizer/index.md)
+* [Main course](Main-course/index.md)
+* [Dessert](Dessert/index.md)
+* [Cake](Cake/index.md)
+* [Snack](Snack/index.md)
+* [Meat dishes](Meat-dishes/index.md)
+* [Vegan](Vegan/index.md)
+* [Quick dishes](Quick-dishes/index.md)
+* [Cold dishes](Cold-dishes/index.md)
