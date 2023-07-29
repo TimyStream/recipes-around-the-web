@@ -1,4 +1,6 @@
 site_name: Recipes around the Web
+plugins:
+  - search
 theme:
   name: material
   logo: images/logo-cutout.png
@@ -9,3 +11,11 @@ theme:
   features:
     - navigation.top
     - navigation.indexes
+    - toc.follow
+    - toc.integrate
+    - navigation.footer
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/TimyStream
+copyright: Built and put together with ❤️ by Timy Stream & Friends & Contributors
