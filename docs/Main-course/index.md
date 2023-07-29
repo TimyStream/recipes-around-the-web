@@ -1,1 +1,1 @@
-# Nain courses around the Web
+# Main courses around the Web
